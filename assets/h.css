@@ -1,0 +1,116 @@
+:root {
+    --black: #000000;
+    --white: #ffffff;
+}
+
+    /* --black-50: rgba(0, 0, 0, 0.5);
+    --white-50: rgba(255, 255, 255, 0.5);
+    --blue: #434CCC;
+    --blue-30: #434CCC30;
+    --yellow: #F1B505;
+  
+    --max-width: 1110px;
+    --mv-auto: 0 auto;
+  
+    --gap: 16px;
+    --gap-sm: 24px;
+    --gap-md: 30px;
+    --gap-lg: 40px;
+    --gap-xl: 56px;
+  
+    --br-sm: 3px;
+    --br-md: 6px;
+    --br-lg: 12px;
+    --br-full: 50%;
+  
+    --transition: all 0.2s linear; */
+  
+
+
+/* Text Styles */
+
+h1, h2, h3, h4 {
+    font-family: 'DM Serif Display';
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 80px;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 64px;
+}
+
+h3 {
+    font-size: 40px;
+    line-height: 48px;
+}
+
+h4 {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+h5, Label, .Text_Big, .Text, .Text_Gray, .Text_Small{
+    font-family: 'DM Sans';
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+Label {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+}
+
+.Text_Big {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+
+    /* height: 83px; */
+}
+
+.Text {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.Text_Gray {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.Text_Small {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+
+
+
+/* 
+.Placeholder{
+
+}
+
+.Placeholder-arrow{
+    
+} */

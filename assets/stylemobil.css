@@ -1,0 +1,261 @@
+@media only screen and (max-width:375px) {
+    .Grid {
+        width: 347px;
+    }
+
+    /* Nav Start */
+
+    nav {
+        min-width: 375px;
+        height: 64px;
+    }
+
+    .nav-frame {
+        gap: 264px;
+    }
+
+    .logo-web {
+        display: none;
+    }
+
+    .logo-mobil {
+        display: block;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .sidebar {
+        display: block;
+        justify-content: center;
+    }
+
+    /* Nav End */
+
+
+    /* Section01 Start */
+
+    .Section01 {
+        min-width: 375px;
+    }
+
+    .text_frame {
+        margin-top: 15px;
+        width: 346px;
+    }
+
+    .text_frame h1 {
+        display: none;
+    }
+
+    .text_frame h2 {
+        display: block;
+        margin-top: 5px;
+    }
+
+    .text_frame p {
+        margin-top: 19px;
+        width: 346px;
+    }
+
+    .text_frame button {
+        margin-top: 25px;
+    }
+
+    .clip-1-frame {
+        height: 358px;
+        width: 370px;
+        left: -312px;
+        top: 431px;
+    }
+
+    /* Section01 End */
+
+
+    /* Section02 Start */
+
+    .Section02 {
+        min-width: 375px;
+        height: 1632px;
+    }
+
+    .Upper_Text {
+        gap: 31px;
+    }
+
+    .Section02 .Upper_Text {
+        margin-top: 42px;
+    }
+
+    .Section02 h2 {
+        display: none;
+    }
+
+    .Section02 h3 {
+        display: block;
+    }
+
+    .Upper_Text p {
+        width: 346px;
+        height: 101px;
+    }
+
+    .Cards {
+        margin-top: 50px;
+        width: 346px;
+
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .card {
+        width: 346px;
+        height: auto;
+    }
+
+    /* Section02 End */
+
+
+    /* Section03 Start */
+
+    .Section03 {
+        min-width: 375px;
+        height: 1536px;
+    }
+
+    .Section03 h2 {
+        display: none;
+    }
+
+    .Section03 h3 {
+        display: block;
+    }
+
+    .Section03 .Upper_Text,
+    .Section04 .Upper_Text {
+        margin-top: 19px;
+    }
+
+    .clip-Cards {
+        margin-top: 0px;
+        gap: 0px;
+    }
+
+    .clip-card-1 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .clip-card-2 {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .clip-card-img {
+        width: 375px;
+        height: auto;
+    }
+
+    .clip-list-is-empty {
+        object-fit: cover;
+        object-position: center;
+        width: 594px;
+        height: 396px
+    }
+
+    .clip-no-messages {
+        object-fit: cover;
+        object-position: center;
+        width: 517px;
+        height: 345px
+    }
+
+    .clip-card-text {
+        gap: 23px;
+    }
+
+    .clip-card-text h4 {
+        display: block;
+        width: 236px;
+    }
+
+    .clip-card-text h3 {
+        display: none;
+    }
+
+    .clip-Cards a {
+        margin-top: -23px;
+    }
+
+    /* Section03 End */
+
+
+    /* Section04 Start */
+
+    .Section04 {
+        min-width: 375px;
+    }
+
+    /* Section04 End */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Section05 Start */
+
+    .Section05 {
+        min-width: 375px;
+    }
+
+    /* Section05 End */
+
+
+    /* Section06 Start */
+
+    .Section06 {
+        min-width: 375px;
+    }
+
+    /* Section06 End */
+
+
+    /* Section07 Start */
+
+    .Section07 {
+        min-width: 375px;
+    }
+
+    /* Section07 End */
+
+
+    /* Section08 Start */
+
+    .Section08 {
+        min-width: 375px;
+    }
+
+    /* Section08 End */
+}

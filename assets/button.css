@@ -1,0 +1,65 @@
+button {
+    width: 170px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    text-align: center;
+}
+
+.Plus_button {
+    width: 48px;
+    height: 48px; 
+}
+
+.Plus_button img {
+    margin: auto;
+}
+
+/* Button Colors */
+
+.Light_Button_Primary{
+    background: #434CCC;
+    color:#FFFFFF
+}
+
+.Light_Button_Secondary{
+    background: #FFFFFF;
+    border: 1px solid #434CCC52;
+    color: #434CCC52;
+}
+
+.Dark_Button_Primary{
+    background: #F1B505;
+    color:#FFFFFF;
+}
+
+.Dark_Button_Secondary{
+    background: #FFFFFF00;
+    border: 1px solid #FFFFFF4D;
+    color: #FFFFFF;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.Dark_a{
+    color:#FFFFFF;
+}
+
+.Light_a{
+    color: #000000;
+}
